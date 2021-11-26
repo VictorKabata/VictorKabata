@@ -6,7 +6,8 @@
 - ✌🏾 Looking forward to collaborating with other Android developers or Golang group projects.
 - 📫 I'm available to answer your android related questions on any platform.
   
-  <p align="center"> 
+
+ <p align="center"> 
  <a href="https://twitter.com/_victorkabata">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
   </a>&nbsp;&nbsp;
