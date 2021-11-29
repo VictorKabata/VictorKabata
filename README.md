@@ -22,7 +22,7 @@
  ### Languages
 
  <p align="center">
-<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=go&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=go&logoColor=white">&nbsp;
 </p>
