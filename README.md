@@ -31,9 +31,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=VictorKabata&count_private=true&show_icons=true&theme=dark" alt="Victor Kabata" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKabata&hide=html&langs_count=8&layout=compact&theme=dark" alt="Victor Kabata" height="165" />
  </p>
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/victorkabata/count.svg" />
-</p>
+ 
+ ### Now Playing - Spotify 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&redirect=true)
