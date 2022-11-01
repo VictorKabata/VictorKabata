@@ -31,11 +31,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=VictorKabata&count_private=true&show_icons=true&theme=dark" alt="Victor Kabata" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKabata&hide=html&langs_count=8&layout=compact&theme=dark" alt="Victor Kabata" height="165" />
  </p>
+
+ ### Technical Articles
+ - [How to Build a GraphQL API using GraphQL-Go Part 1](https://medium.com/@victorbro14/how-to-build-a-graphql-api-using-graphql-go-part-1-5412d9197c79)
+ - [How to Build a GraphQL API using GraphQL-Go Part 2](https://medium.com/@victorbro14/how-to-build-a-graphql-api-using-graphql-go-part-2-8b0b2dee1caf)
  
  ### Now Playing - Spotify 🎧
  
  <p align="center">            
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&redirect=true">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true"/>
+  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&cover_image=true&theme=Natemoo-re theme&bar_color=53b14f&bar_color_cover=true"/>
 </a>
 </p>
