@@ -37,7 +37,7 @@
 ### Now Playing - Spotify 🎧
 
  <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&redirect=true">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true"/>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile">
+  <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"/>
 </a>
 </p>
