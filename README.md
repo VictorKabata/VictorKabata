@@ -30,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKabata&hide=html&langs_count=8&layout=compact&theme=dark" alt="Victor Kabata" height="165" />
  </p>
 
-### Technical Articles
+### Articles
 
 - [How to Build a GraphQL API using GraphQL-Go Part 1](https://medium.com/@victorbro14/how-to-build-a-graphql-api-using-graphql-go-part-1-5412d9197c79)
 - [How to Build a GraphQL API using GraphQL-Go Part 2](https://medium.com/@victorbro14/how-to-build-a-graphql-api-using-graphql-go-part-2-8b0b2dee1caf)
